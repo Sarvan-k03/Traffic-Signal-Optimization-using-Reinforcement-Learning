@@ -1,5 +1,6 @@
 # Traffic Signal Optimization using Reinforcement Learning
 
+
 Reinforcement learning agents that control the traffic signal at a four-way intersection in the SUMO traffic simulator, compared against a standard fixed-time signal.
 
 Seven controllers are implemented and evaluated on the same traffic: a fixed-time baseline, two tabular methods (Q-Learning and Double Q-Learning), DQN, and three policy-gradient methods (A2C, PPO and TRPO).
